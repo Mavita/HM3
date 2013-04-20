@@ -1,0 +1,1 @@
+Year,Quarter,Month,DayofMonth,DayofWeek,UniqueCarrier,Origin,OriginCityName,OriginState,Dest,DestCityName,DestState,CRSDepTime,DepTime,DepDelay,DepDelayMinutes,DepDel15,DepartureDelayGroups,TaxiOut,TaxiIn,ArrDelay,ArrDelayMinutes,ArrDel15,Cancelled,ActualElapsedTime,AirTime,Distance
